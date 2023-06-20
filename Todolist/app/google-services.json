@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "196497102681",
+    "firebase_url": "https://tic-tac-toe-online-e1a2d-default-rtdb.firebaseio.com",
+    "project_id": "tic-tac-toe-online-e1a2d",
+    "storage_bucket": "tic-tac-toe-online-e1a2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196497102681:android:8a3db66f36e9175ae21e48",
+        "android_client_info": {
+          "package_name": "com.example.tic_tac_toe_online_mode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196497102681-68vei7hkrr6klc6v6a75r88a5417uoi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY8xZN9VsPiyZDJraRiRqjs0IhFOAlMRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196497102681-68vei7hkrr6klc6v6a75r88a5417uoi1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196497102681:android:23b7ec2bd0d2e580e21e48",
+        "android_client_info": {
+          "package_name": "com.example.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196497102681-68vei7hkrr6klc6v6a75r88a5417uoi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY8xZN9VsPiyZDJraRiRqjs0IhFOAlMRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196497102681-68vei7hkrr6klc6v6a75r88a5417uoi1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
